@@ -1,0 +1,36 @@
+#firstcard{
+    margin-right: 60px;
+    border: 5px;
+    border-style: groove;
+    border-color: violet;
+}
+#secondcard{
+    margin-right: 60px;
+    border: 5px;
+    border-style: groove;
+    border-color: violet;
+}
+#thirdcard{
+    margin-right: 60px;
+    border: 5px;
+    border-style: groove;
+    border-color: violet;
+}
+h1{
+    font-family: 'Sansita Swashed', cursive;
+}
+#heading{
+    font-family: 'Sansita Swashed', cursive;
+}
+
+#navbar{
+    text-decoration: none;
+    font-style: oblique;
+    font-size: 20px;
+    font-family: 'Architects Daughter', cursive;
+}
+
+nav:hover{
+    color:   cornflowerblue;
+
+}
